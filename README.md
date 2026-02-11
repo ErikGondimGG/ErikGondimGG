@@ -79,6 +79,7 @@ const erik = {
 <div align="center">
   
 ![Anurag's GitHub stats](https://stats-cards-145l.vercel.app/api?username=ErikGondimGG&show_icons=true&theme=midnight-purple)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=ErikGondimGG&theme=midnight-purple)](https://git.io/streak-stats)
 
 [![Top Langs](https://stats-cards-145l.vercel.app/api/top-langs/?username=ErikGondimGG&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
@@ -110,23 +111,6 @@ const erik = {
 - 🔧 Linux server management and maintenance
 - 🔄 ERP systems integration (Sankhya)
 - 👥 Code reviews and development best practices
-
----
-
-## 🎯 Featured Projects
-
-<!-- Replace with your actual projects -->
-```
-📌 Coming soon: amazing projects here!
-```
-
----
-
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- You can add a GitHub Action here to show recent activity -->
-<!--END_SECTION:activity-->
 
 ---
 
