@@ -70,30 +70,6 @@ const erik = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Anurag's GitHub stats](https://stats-cards-145l.vercel.app/api?username=ErikGondimGG&show_icons=true&theme=midnight-purple)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ErikGondimGG&theme=midnight-purple)](https://git.io/streak-stats)
-
-[![Top Langs](https://stats-cards-145l.vercel.app/api/top-langs/?username=ErikGondimGG&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://trophies-beta.vercel.app/?username=ErikGondimGG&theme=aura)
-
-</div>
-
----
-
 ## 💼 Professional Experience
 
 ### 💡 Gigantão Engenharia de Movimentação
